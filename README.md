@@ -1,6 +1,6 @@
 # CodeInPlace_DrawAndGuess
 
-To play, run GAproject.py
+To play, run GAproject.py 
 It will use the text file Drawing_Coordinates and the illustrations
 in the images directory to randomly choose an illustration.
 The player scrolls over the dots as they appear, creating an outline.
