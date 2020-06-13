@@ -1,8 +1,10 @@
 """
 File: GAproject.py
 --------------------
-This file contains Glorilí Alejandro's final project
+This file contains Glorili Alejandro's final project
 for Stanford's Code In Place python course, Spring 2020.
+
+Run on Python 3 or higher.
 
 This program, along with the file "Drawing_Coordinates" and images directory,
 has the user trace over dots on a canvas to make a drawing.
@@ -10,7 +12,7 @@ The user has a specified amount of time to trace over all the dots.
 Once time is up, or the drawing is fully traced, the user is prompted to guess
 the subject of the drawing. They are told if they are correct, then shown the
 image of the real drawing. The user is asked if they want to continue, and the game
-continues until they exit by typing anything but y or Y.
+continues until they exit by typing anything but 'y' or 'Y'.
 """
 
 
